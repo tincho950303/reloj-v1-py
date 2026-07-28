@@ -41,7 +41,7 @@ menu_contextual.add_command(label="Cerrar Reloj", command=cerrar_aplicacion)
 root.bind("<Button-3>", mostrar_menu)
 # ---------- Configuración de colores ----------->
 COLOR_TRANSPARENTE = "#1b1a1b"
-COLOR_TEXTO = "#1dc2db"
+COLOR_TEXTO = "#1dbbdb"
 
 # ---------- Configurar transparencia ----------->
 try:
