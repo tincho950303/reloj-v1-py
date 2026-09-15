@@ -1,0 +1,2 @@
+# Solo librería estándar (tkinter viene con Python). Sin dependencias externas.
+# Requiere Python 3.8+ en Windows para el fondo transparente.

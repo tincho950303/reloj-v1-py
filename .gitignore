@@ -1,6 +1,30 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*$py.class
+
+# Entornos virtuales (todas las variantes comunes)
 .venv/
+venv/
+env/
+ENV/
+
+# Distribución / builds
 dist/
 build/
 *.spec
+*.egg-info/
+
+# Editores y SO
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs y temporales
+*.log
+tempCodeRunnerFile.py
+tempCodeRunnerFile.pyw
