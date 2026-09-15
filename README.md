@@ -30,6 +30,7 @@ Ventana flotante, sin bordes y siempre visible para Windows, hecha con **Python 
 
 ## 🚀 Uso
 
+### En Consola
 ```bash
 # Clonar
 git clone https://github.com/tincho950303/reloj-v1-py.git
@@ -38,13 +39,9 @@ cd reloj-v1-py
 # Ejecutar (con consola, ideal para desarrollo)
 python reloj.py
 ```
+### En Windows
 
-En Windows, doble clic en **`reloj.pyw`** para ejecutarlo **sin ventana de consola**.
-
-| Archivo     | Para qué sirve                              |
-|-------------|----------------------------------------------|
-| `reloj.py`  | App principal (lógica completa, multiplataforma) |
-| `reloj.pyw` | Lanzador sin consola para Windows            |
+Doble clic en **`reloj.pyw`** para ejecutarlo.
 
 ## 🖱️ Controles
 
