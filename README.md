@@ -7,8 +7,6 @@ Ventana flotante, sin bordes y siempre visible para Windows, hecha con **Python 
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-![Demo del reloj](assets/captura.png)
-
 | 24h | 24h + aura (hover) |
 |-----|--------------------|
 | ![24h](assets/captura-24h.png) | ![24h aura](assets/captura-24h-aura.png) |
@@ -71,7 +69,7 @@ reloj/
 ├── reloj.py        # App principal
 ├── reloj.pyw       # Lanzador sin consola (Windows)
 ├── requirements.txt # Vacío: solo stdlib
-├── assets/         # Pon aquí captura.png / demo.gif
+├── assets/         
 ├── docs/
 │   └── SOCIAL_KIT.md # Textos listos para LinkedIn, X, Instagram y portfolio
 ├── LICENSE         # MIT
