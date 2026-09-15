@@ -100,7 +100,6 @@ class RelojFlotante:
             background=self.color_fondo,
             highlightthickness=0,
             bd=0,
-            cursor="fleur",
         )
         self.canvas.pack(anchor="center", expand=True)
 

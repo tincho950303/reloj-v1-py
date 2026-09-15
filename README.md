@@ -7,9 +7,15 @@ Ventana flotante, sin bordes y siempre visible para Windows, hecha con **Python 
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-> 📸 **Tip para tu captura:** ejecuta la app, pon un fondo lindo y saca captura solo del reloj. Guárdala como `assets/captura.png` y aparecerá aquí automáticamente:
-
 ![Demo del reloj](assets/captura.png)
+
+| 24h | 24h + aura (hover) |
+|-----|--------------------|
+| ![24h](assets/captura-24h.png) | ![24h aura](assets/captura-24h-aura.png) |
+
+| 12h | 12h + aura (hover) |
+|-----|--------------------|
+| ![12h](assets/captura-12h.png) | ![12h aura](assets/captura-12h-aura.png) |
 
 ---
 
