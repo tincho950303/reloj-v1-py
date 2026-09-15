@@ -87,6 +87,6 @@ reloj/
 
 ## 👤 Autor
 
-**tincho950303** — https://github.com/tincho950303
+**Carlos Martin Sosa Paez** — https://github.com/tincho950303
 
 Si te sirve, deja una ⭐ en el repo.
